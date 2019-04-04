@@ -1,17 +1,16 @@
-# _Roman Times New_
+# _Crypto Encryption_
 
 #### By _**Nathan & Katlin**_
 
 ## Description
 
-_Roman numerals to number converter and vice versa_
+_Encrypt using square_
 
 |Description|Input|Output|
 |-|-|-|
-|Accept only whole numbers|1|I|
-|Can convert a number into a single character numeral|1, 5, 10, 50, 100, 500, 1000|I, V, X, L, C, D, M|
-|Can convert a single number into a multi-character numeral| 2 | II |
-|Can convert a number into numerals where a character is not repeated more than three times| 4 | IV |
+|Remove spaces and special characters and case|Apple Juice22!|applejuice|
+|Cryptofy using Square|applejuice|aecpjepuli|
+|Output in groups of five letters|aecpjepuli|aecpj epuli|
 
 
 ## Setup/Installation Requirements
